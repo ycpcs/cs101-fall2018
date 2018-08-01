@@ -6,14 +6,14 @@ title: Syllabus
 CS 101 - Fundamentals of Computer Science I
 ===========================================
 
-**Spring 2018**
+**Fall 2018**
 
 Staff:
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101, 102, 103, 106 | David Hovemeyer, <dhovemey@ycp.edu> | In KEC 113: M/W 1-3, F 11-12, or by arrangement
-> 104, 105 | Deepti Jindal, <djindal@ycp.edu> | W 1-2 (Location TBD, please email to arrange meeting)
+> 101, 103 | David Babcock, <dbabcock@ycp.edu> | TBD
+> 102 | Deepti Jindal, <djindal@ycp.edu> | TBD
 
 Course description
 ------------------
@@ -77,7 +77,7 @@ The grading scale for the course is given below. Please note that this grading s
 
 ### Course website
 
-Please check the course web page, <https://ycpcs.github.io/cs101-spring2018/>, regularly for important announcements.
+Please check the course web page, <https://ycpcs.github.io/cs101-fall2018/>, regularly for important announcements.
 
 ### Reading assignments
 
@@ -85,7 +85,7 @@ Readings from your text book will be assigned throughout the semester. You will 
 
 ### Posting and submission of assignments and labs
 
-Assignments and (some) labs will be posted as zip files on the course web page, <https://ycpcs.github.io/cs101-spring2018/>.
+Assignments and (some) labs will be posted as zip files on the course web page, <https://ycpcs.github.io/cs101-fall2018/>.
 
 Assignments will be submitted using the server <https://cs.ycp.edu/marmoset/>. You will receive an email containing the username and password you will use for this server.
 
