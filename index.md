@@ -39,6 +39,8 @@ All information about the course will be posted here.
 
 ## News
 * **Aug 29** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html) and a description of a [research study](study.html) being conducted this semester.  Also, in class we will ask you to complete a [prior experience survey](https://goo.gl/forms/zzfjES8HZK9TEthK2).
+* **Sept 5** &mdash; The design for [Assignment 1](assign/assign01.html) is due in class
+* **Sept 7** &mdash; The code for [Assignment 1](assign/assign01.html) is due by 11:59PM
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
