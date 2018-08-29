@@ -13,7 +13,7 @@ Staff:
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
 > 101, 103 | David Babcock, <dbabcock@ycp.edu> | M 2-3PM; T 2-3PM; W 1-3PM; R 8:30-9:30AM; or by appointment
-> 102 | Deepti Jindal, <djindal@ycp.edu> | TBD
+> 102 | Deepti Jindal, <djindal@ycp.edu> | W F 11:15AM-12:00PM
 
 Course description
 ------------------
