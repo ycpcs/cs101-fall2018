@@ -8,6 +8,7 @@ This page has information about how to use the [design template](../design-templ
 The ["How to" guide](design-howto.pdf) explains each section of the design template.
 
 Example designs:
+* [Lab 1 Design](lab01-design.pdf)
 
 <!--
 * [Lab 1 Design](lab01-design.pdf)
