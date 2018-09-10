@@ -88,7 +88,7 @@ Sunday     Monday     Tuesday    Wednesday  Thursday   Friday     Saturday
 
 In **Milestone 1**, your tasks are to
 
--   obtain the user input for month and year using a single scanf statement. **NOTE:** You do **not** need to validate the range of the inputs for this milestone.
+-   obtain the user input for month and year using a single `scanf` statement. **NOTE:** You do **not** need to validate the range of the inputs for this milestone.
 -   determine the number of days in the month. **NOTE:** You will need to account for leap years if the user selects February.
 -   determine the day of the week the month starts on. **NOTE:** This can be done by computing the *Julian day*.
 -   print the output for the number of days in the month and the day the month starts on.
@@ -109,10 +109,9 @@ There are 29 days in the month.
 The month starts on a Thursday.
 </pre>
 
-Approach/Hints
---------------
+### Approach/Hints
 
-### Number of days in month
+**Number of days in month**
 
 To determine the number of days in the month:
 
@@ -120,7 +119,7 @@ To determine the number of days in the month:
 -   April, June, September, and November each have 30 days
 -   February has 28 days, except in leap years, when it has 29 days
 
-### Leap Years
+**Leap Years**
 
 A year is a leap year if *either*:
 
@@ -129,7 +128,7 @@ A year is a leap year if *either*:
 
 For example, 1996 and 2000 were leap years, but 1900 and 2003 were not leap years.
 
-### Julian Day Computation
+**Julian Day Computation**
 
 A [Julian Day Number](http://en.wikipedia.org/wiki/Julian_day) is an integer representation of dates since January 1, 4713 BC.
 
@@ -166,7 +165,7 @@ In **Milestone 2**, using the information from **Milestone 1** your tasks are
 -   validate the user input such that the month is in the range 1-12 and the year is after 4713 BC. **NOTE:** Consider using a **while** loop with appropriate conditions.
 -   print the name of the month and year
 -   print the days of the week. **Note:** Each day should be left justified in a field with 11 characters.
--   print the first week using leading blanks (11 spaces) prior to the first day of the month. **NOTE:** This **MUST** be done using a loop. Consider how the modulo of the Julian day from **Milestone 1** relates to the number of blanks needed.
+-   print the first week using leading blank fields (11 spaces) prior to the first day of the month. **NOTE:** This **MUST** be done using a loop. Consider how the modulo of the Julian day from **Milestone 1** relates to the number of blank fields needed.
 -   print the remaining days of the week with proper formatting such that the day number is left justified in the 11 character field. **NOTE:** This **MUST** be done using a loop. Consider logic to determine the number of trailing spaces for single digit days vs. two digit days for proper spacing.
 
 Here is an example run of the program for **Milestone 2** (user input in **bold**):
@@ -204,10 +203,9 @@ Sunday     Monday     Tuesday    Wednesday  Thursday   Friday     Saturday
 25         26         27         28         
 </pre>
 
-Approach/Hints
---------------
+### Approach/Hints
 
-### Separating weeks
+**Separating weeks**
 
 Consider using multiple counters for which day is currently being printed and for the number of days previously printed to determine when a new week starts in order to begin the next line of output.
 
@@ -222,7 +220,7 @@ Grading
 
 Your grade will be determined as follows:
 
-### Milestone 1
+### Milestone 1 - 40 points
 
 * Design artifact: 5
 * Input month/year: 5
@@ -230,7 +228,7 @@ Your grade will be determined as follows:
 * Determine leap years: 5
 * Determine starting day of the month: 15
 
-### Milestone 2
+### Milestone 2 - 60 points
 
 * Design artifact: 5
 * Validate month and year input, re-prompt if invalid value is entered: 5
@@ -243,7 +241,7 @@ Your grade will be determined as follows:
 
 We expect you to use good coding style.  Points may be deducted for poor variable names, inconsistent or missing indentation, and/or lack of comments.
 
-### Extra Credit
+### Extra Credit - 20 points
 
 Add extra formatting such that
 
