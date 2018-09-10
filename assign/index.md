@@ -12,6 +12,7 @@ Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
 [Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Fri, Sept 7th<br>Code: Wed, Sept 12th
+[Assignment 2: Calendar](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Fri, Sept 14th<br>MS1 Code: Wed, Sept 19th<br>MS2 Design: Fri, Sept 21st<br>MS2 Code: Wed, Sept 26th
 
 
 <!--
