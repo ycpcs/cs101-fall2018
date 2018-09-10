@@ -9,6 +9,7 @@ Date | Code example | Description
 ---- | ------------ | -----------
 Aug 29 | [birthday.cpp](birthday.cpp) | read in and print out user's birthday
 Aug 31 | [average.cpp](average.cpp) | compute average of four numbers
+Sept 7 | [ticket.cpp](ticket.cpp) | Compute ticket price based on age
 
 <!--
 Feb 1 | [ticket.cpp](ticket.cpp) | Compute ticket price based on age
