@@ -16,7 +16,7 @@ title: "Assignment 2: Calendar"
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign02.zip](src/CS101_Assign02.zip), saving it in the directory **H:\\CS101**.
+Start by downloading [CS101\_Assign02.zip](CS101_Assign02.zip), saving it in the directory **H:\\CS101**.
 
 Start a **Cygwin Bash Shell** and run the following commands:
 
