@@ -16,6 +16,7 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Sept 14| [Lab 7: For loops](lab07.html) <br /> [Lab 8: Gone loopy](lab08.html)  | n/a <br /> [CS101\_Lab08.zip](CS101_Lab08.zip)
 > Sept 19| [Lab 9: Bar Graph](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
 > Sept 21| [Lab 10: Fancy Rectangle](lab10.html) <br /> [Lab 11: Barn Door](lab11.html) | [CS101\_Lab10.zip](CS101_Lab10.zip) <br /> [CS101\_Lab11.zip](CS101_Lab11.zip)
+> Oct 3  | [Lab 12: Array Exercises](lab12.html) | n/a
 
 <!--
 > Mar 13 | **Exam 2**
