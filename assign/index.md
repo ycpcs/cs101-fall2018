@@ -16,6 +16,8 @@ Assignment | File | Due date(s)
 
 
 <!--
+[Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03.zip](CS101_Assign03.zip) | MS1 Code: Wed, Oct 10th<br>MS2 Design: Fri, Oct 12th<br>MS2 Code: Thurs, Oct 18th
+
 [Assignment 2: Let's Make a Deal](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Tues, Feb 6th<br>MS1 Code: Fri, Feb 9th<br>MS2 Design: Tues, Feb 20th<br>MS2 Code/Report: Fri, Feb 23rd
 [Assignment 3: Loop Exercises](assign03.html) | n/a | Monday, Mar 12th
 [Assignment 4: Tipping Dominoes](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Design: Tues, Mar 20th<br>Code: Thurs, Apr 5th
