@@ -112,8 +112,8 @@ In **Milestone 1**, your tasks are to
 -   validate that each state is in the range 0-3 or -1.
 -   print out the initial configuration using the symbols
 	- blank space for an empty space
-	- **|** for an upright domino
-	- **/** for a tippint domino
+	- **\|** for an upright domino
+	- **/** for a tipping domino
 	- **_** for a horizontal (fallen) domino
 
 Here is an example run of the program for **Milestone 1** (user input in **bold**):
@@ -146,7 +146,7 @@ The code for Milestone 1 should be submitted to Marmoset (using the command `mak
 
 ## Milestone 2
 
-In **Milestone 2**, using the initial state from **Milestone 1** your task is to simulate the new state when the first domino is tipped for 10 consecutive time steps.
+In **Milestone 2**, using the initial state from **Milestone 1** your task is to simulate the new states when the first domino is tipped for 10 consecutive time steps.
 
 The rules for updating the state of a domino are as follows:
 
@@ -213,8 +213,8 @@ Start by changing the state of the first domino if it is upright to tipping. If 
 
 Each time step should be implemented as two **for** loops:
 
--   The first loop finds each tipping domino, changes its right neighbor to "ready to tip" (if it is upright), and then changes the original domino to horizontal. This is to prevent a cascade effect where changing an upright domino to tipping propagates to its neighbor until the next time step. 
--   The second loop finds each "ready to tip" domino and changes it to "tipping".
+-   The first loop finds each tipping domino, changes its right neighbor to "ready to tip" (if it is upright). This is to prevent a cascade effect where changing an upright domino to tipping propagates to its neighbor until the next time step. 
+-   The second loop finds each "ready to tip" domino and changes it to "tipping" and changes each "tipping" domino to horizontal.
 
 You should use a value for "ready to tip" positions that is distinct from the values that represent empty, upright, tipping, and horizontal.
 
