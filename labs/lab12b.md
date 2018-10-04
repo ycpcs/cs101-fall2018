@@ -29,12 +29,12 @@ The application must be able to take up to 10 **double** values as input (assume
 Example run (user input in **bold**):
 
 <pre>
-Enter value 1: **1.2**
-Enter value 2: **3.0**
-Enter value 3: **4.1** 
-Enter value 4: **1.1** 
-Enter value 5: **4.5**
-Enter value 6: **-1**
+Enter value 1: <b>1.2</b>
+Enter value 2: <b>3.0</b>
+Enter value 3: <b>4.1</b> 
+Enter value 4: <b>1.1</b>
+Enter value 5: <b>4.5</b>
+Enter value 6: <b>-1</b>
 
 The values from smallest to largest:
 1.1 1.2 3.0 4.1 4.5
@@ -45,13 +45,13 @@ The median value is 3.00
 Another example run (user input in **bold**):
 
 <pre>
-Enter value 1: **4.6**
-Enter value 2: **2.5**
-Enter value 3: **3.8** 
-Enter value 4: **3.2** 
-Enter value 5: **1.7**
-Enter value 6: **5.1**
-Enter value 7: **-4**
+Enter value 1: <b>4.6</b>
+Enter value 2: <b>2.5</b>
+Enter value 3: <b>3.8</b> 
+Enter value 4: <b>3.2</b> 
+Enter value 5: <b>1.7</b>
+Enter value 6: <b>5.1</b>
+Enter value 7: <b>-4</b>
 
 The values from smallest to largest:
 1.7 2.5 3.2 3.8 4.6 5.1

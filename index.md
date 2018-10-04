@@ -45,6 +45,11 @@ All information about the course will be posted here.
 * **Sept 19** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
 * **Sept 21** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
 * **Sept 26** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
+* **Sept 28** &mdash; **EXAM 1**
+* **Oct 10** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Oct 12** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
+* **Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+
 
 <!--
 * **Apr 30** &mdash; A solution to the fourth practice exam has been posted on the [Practice Exams](practice/index.html) page.  Don't forget that Exam 4 takes place in class on **Thursday, May 3rd**.
