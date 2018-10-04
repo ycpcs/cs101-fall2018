@@ -25,6 +25,7 @@ Sept 21 | [Lecture 8: Nested loops, char data types](lectures/lecture08.html)<br
 Sept 26 | *Exam 1 Review* | Exam1Review &rarr; [fleems](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=945), [buy 3, get 1 free](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=950), [plus four](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=972), [triangle counting](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=973), [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=962), [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=957)![gold star](img/goldstar-tiny.png)
 Sept 28 | **Exam 1** |
 Oct 3   | [Lecture 10: Arrays](lectures/lecture10.html)<br>Chapter 6 through *Initializing Arrays* | Week6 &rarr; [Array Scanner](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=912)\*, [Pair sums](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=913)\*, [Exceeded Amount](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=914), [weighted average](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=965), [Not like the others](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=915)![gold star](img/goldstar-tiny.png) | 6.4, 6.7
+Oct 3   | [Lecture 10: Arrays](lectures/lecture10.html) cont. | | 
 
 
 <!--
