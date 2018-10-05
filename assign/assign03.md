@@ -167,6 +167,7 @@ Position 7 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 8 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 9 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>0</b>
 Position 10 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
+Position 11 (0=empty, 1=upright, 2=tipping, 3=horizontal, -1=finished): <b>-1</b>
 
 Initial state:
 ||| /||| |
@@ -268,6 +269,7 @@ Position 7 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 8 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
 Position 9 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>0</b>
 Position 10 (0=empty, 1=upright, 2=tipping, 3=horizontal): <b>1</b>
+Position 11 (0=empty, 1=upright, 2=tipping, 3=horizontal, -1=finished): <b>-1</b>
 
 Initial state:
 ||| /||| |
