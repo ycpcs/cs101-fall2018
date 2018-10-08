@@ -108,8 +108,8 @@ Run the program as
 
 View the resulting image by opening **fade.bmp** in your web browser.
 
-RGB
----
+RGB - Extra Challenge
+---------------------
 
 In the program **RGB.cpp**, create a large image with 4 copies of the original image. The top left, top right, and bottom left copies should preserve only the red, green, and blue color component values, leaving the other component values as 0. The bottom right copy should be identical to the original image.  So, it should look like the following image (click for full size):
 

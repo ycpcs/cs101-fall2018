@@ -18,6 +18,8 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Sept 21| [Lab 10: Fancy Rectangle](lab10.html) <br /> [Lab 11: Barn Door](lab11.html) | [CS101\_Lab10.zip](CS101_Lab10.zip) <br /> [CS101\_Lab11.zip](CS101_Lab11.zip)
 > Oct 3  | [Lab 12: Array Exercises](lab12.html) | n/a
 > Oct 5  | [Lab 12b: Sorting and Finding Median of an Array](lab12b.html) | [CS101\_Lab12b.zip](CS101_Lab12b.zip)
+> Oct 10 | [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
+> Oct 12 | [Lab 14: Right Triangle](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip) | 
 
 <!--
 > Mar 13 | **Exam 2**

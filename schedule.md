@@ -25,19 +25,12 @@ Sept 21 | [Lecture 8: Nested loops, char data types](lectures/lecture08.html)<br
 Sept 26 | *Exam 1 Review* | Exam1Review &rarr; [fleems](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=945), [buy 3, get 1 free](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=950), [plus four](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=972), [triangle counting](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=973), [First digit](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=962), [Perfect Number](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=957)![gold star](img/goldstar-tiny.png)
 Sept 28 | **Exam 1** |
 Oct 3   | [Lecture 10: Arrays](lectures/lecture10.html)<br>Chapter 6 through *Initializing Arrays* | Week6 &rarr; [Array Scanner](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=912)\*, [Pair sums](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=913)\*, [Exceeded Amount](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=914), [weighted average](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=965), [Not like the others](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=915)![gold star](img/goldstar-tiny.png) | 6.4, 6.7
-Oct 3   | [Lecture 10: Arrays](lectures/lecture10.html) cont. | | 
+Oct 5   | [Lecture 10: Arrays](lectures/lecture10.html) cont. | | 
+Oct 10  | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapter 6, *Multidimensional Arrays* | Week7 &rarr; [tic-tac-toe check](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=943)\*, [Magic Squares](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=955) | &mdash;
+Oct 12 | [Lecture 12: Functions, top-down design](lectures/lecture12.html)<br>Chapter 7 through *Automatic Variables* | Week7 &rarr;  [PrintSum](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=916)\*, [Deep Thought](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=917)\*, [Find Primes](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=918)![gold star](img/goldstar-tiny.png) | &mdash;
 
 
 <!--
-Feb 13 | **Exam 1** | Exam1Review &rarr; [fleems](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=945), [buy 3, get 1 free](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=950)
-Feb 27 | *Winter vacation, no class*
-Mar 1 | *Winter vacation, no class*
-Mar 6 | [Lecture 8: Nested loops, char data types](lectures/lecture08.html)<br>Chapter 4, *Nested for Loops* | Week8 &rarr; [111222333444](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=910)\*, [multiplication table](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=949)\*, [which and how many?](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=911)![gold star](img/goldstar-tiny.png) | &mdash;
-Mar 8 | Combining loops and if/else | &mdash; | &mdash;
-Mar 13 | **Exam 2**
-Mar 15 | [Lecture 10: Arrays](lectures/lecture10.html)<br>Chapter 6 through *Initializing Arrays* | Week9 &rarr; [Array Scanner](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=912)\*, [Pair sums](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=913)\*, [Exceeded Amount](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=914), [weighted average](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=966), [Not like the others](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=915)![gold star](img/goldstar-tiny.png) | 6.4, 6.7
-Mar 20 | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapter 6, *Multidimensional Arrays* | Week10 &rarr; [tic-tac-toe check](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=943)\*, [Magic Squares](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=955) | &mdash;
-Mar 22 | *Snow day, classes canceled*
 Mar 27 | [Lecture 12: Functions, top-down design](lectures/lecture12.html)<br>Chapter 7 through *Automatic Variables* | Week10 &rarr;  [PrintSum](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=916)\*, [Deep Thought](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=917)\*, [Find Primes](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=918)![gold star](img/goldstar-tiny.png) | &mdash;
 Mar 29 | *Spring vacation, no class*
 Apr 3 | Catch up day | &mdash; | &mdash;
