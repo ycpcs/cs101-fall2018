@@ -113,10 +113,10 @@ Your program **MUST** use the following functions:
 -   get_bet_type() - which takes no parameters, and returns a valid bet type obtained from the user. The function should contain all prompts for the user and validate the type is between 1-3.
 -   get_number() - which takes no parameters, and returns the user's chosen value between 1-36. The function should contain all prompts for the user and validate the number is between 1-36. This function should be called if the bet type is particular number.
 -   spin_wheel() - which takes no parameters, and returns a random number generated between 0-37
--   evaluate_odd() - which takes a parameter for the spin, and returns the appropriate winnings (or losses as a negative value). This function should be called if the bet type is odd.
--   evaluate_even() - which takes a parameter for the spin, and returns the appropriate winnings (or losses as a negative value). This function should be called if the bet type is even.
--   evaluate_number() - which takes a parameter for the user's number and a parameter for the spin, and returns the appropriate winnings (or losses as a negative value). This function should be called if the bet type is particular number.
--   print_winnings() - which takes a parameter for the winnings for the spin, a parameter for the total winnings so far, and a parameter for the current amount of the account. and returns no value. The function should print out the winnings based on the current spin, the total winnings so far, and the current amount of money the user has remaining.
+-   evaluate_odd() - which takes a parameter for the spin and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is odd.
+-   evaluate_even() - which takes a parameter for the spin and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is even.
+-   evaluate_number() - which takes a parameter for the user's number, a parameter for the spin, and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is particular number.
+-   print_winnings() - which takes a parameter for the total winnings so far, and a parameter for the current amount of the account, and returns no value. The function should print out the winnings based on the current spin, the total winnings so far, and the current amount of money the user has remaining.
 
 ### Approach/Hints
 
