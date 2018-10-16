@@ -25,7 +25,7 @@ Start a **Cygwin Bash Shell** and run the following commands:
 
 Using **Notepad++**, open the file
 
-> **H:\\CS101\\CS101\_Assign02\\Dominoes.cpp**
+> **H:\\CS101\\CS101\_Assign03\\Dominoes.cpp**
 
 You will add your code to this file.
 
