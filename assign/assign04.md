@@ -116,7 +116,7 @@ Your program **MUST** use the following functions:
 -   evaluate_odd() - which takes a parameter for the spin and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is odd.
 -   evaluate_even() - which takes a parameter for the spin and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is even.
 -   evaluate_number() - which takes a parameter for the user's number, a parameter for the spin, and a parameter for the bet, and returns the appropriate winnings (or losses as a negative value). This function should print the result and be called if the bet type is particular number.
--   print_winnings() - which takes a parameter for the total winnings so far, and a parameter for the current amount of the account, and returns no value. The function should print out the winnings based on the current spin, the total winnings so far, and the current amount of money the user has remaining.
+-   print_winnings() - which takes a parameter for the total winnings so far, and a parameter for the current amount of the account, and returns no value. The function should print out the total winnings so far and the current amount of money the user has remaining.
 
 ### Approach/Hints
 
@@ -131,7 +131,7 @@ Consider how to design the program to utilize the functions. Main() should only
 
 **Function declarations**
 
-Consider the data types for each parameter and the return type of each function. Be sure to add function prototypes before main().
+Consider the data types for each parameter and the return type of each function. **Write each function as a standalone routine.** Be sure to add function prototypes before main().
 
 **Spinning the wheel**
 
@@ -140,8 +140,8 @@ You can call slot 0 and slot 37 green and then you should have slots 1 - 36 left
 You should add the following **#include** directives at the
 top of the file:
 
-    \#include <stdlib.h>
-    \#include <time.h>
+    #include <stdlib.h>
+    #include <time.h>
 
 Near the beginning of the statements in your **main** function,
 add the statement
