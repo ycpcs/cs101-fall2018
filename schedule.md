@@ -32,11 +32,11 @@ Oct 17 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br
 Oct 19 | [Lecture 13: Functions that return a value](lectures/lecture13.html) cont. | | 
 Oct 24 | *Exam 2 Review* | | 
 Oct 26 | **Exam 2** |
+Oct 31 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week10 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=919)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=921)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=920)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=956) | &mdash;
+Nov 1  | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week10 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=924)\* | &mdash;
+
 
 <!--
-Apr 10 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week12 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=919)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=921)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=920)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=956) | &mdash;
-Apr 12 | **Exam 3**
-Apr 17 | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=924)\* | &mdash;
 Apr 19 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week14 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=970)\* | &mdash;
 Apr 24 | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* |  Week14 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=925)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=951)\* | &mdash;
 Apr 26 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures*<br>[Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
