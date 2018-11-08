@@ -36,6 +36,12 @@ Oct 31 | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 
 Nov 2  | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* | Week10 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=924)\* | &mdash;
 Nov 7  | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week11 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=970)\* | &mdash;
 Nov 9  | [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* |  Week11 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=925)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=18,p=951)\* | &mdash;
+Nov 14 | [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | &mdash; | &mdash;
+Nov 16 | [Lecture 19: Composition](lectures/lecture19.html) cont. | &mdash; | &mdash;
+Nov 28 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
+Nov 30 | [Lecture 20: Arrays of structures](lectures/lecture20.html) cont. | &mdash; | &mdash;
+Dec 5 | **Exam 3 review** | | 
+Dec 7 | **Exam 3**
 
 
 <!--

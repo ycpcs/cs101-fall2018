@@ -51,6 +51,8 @@ All information about the course will be posted here.
 * **Oct 18** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
 * **Oct 24** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
 * **Oct 26** &mdash; **EXAM 2**
+* **Nov 14** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
+* **Nov 21, 23** &mdash; **NO CLASS - THANKSGIVING BREAK**
 
 
 <!--
