@@ -17,26 +17,30 @@ Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    unzip CS101_Assign04.zip
-    cd CS101_Assign04
+    unzip CS101_Assign06.zip
+    cd CS101_Assign06
 
 Using **Notepad++**, open the files
 
-> **H:\\CS101\\CS101\_Assign04\\Scene.h**
+> **H:\\CS101\\CS101\_Assign06\\Scene.h**
 
-> **H:\\CS101\\CS101\_Assign04\\Scene.cpp**
+> **H:\\CS101\\CS101\_Assign06\\Scene.cpp**
 		
-> **H:\\CS101\\CS101\_Assign04\\Player.h**
+> **H:\\CS101\\CS101\_Assign06\\Player.h**
 
-> **H:\\CS101\\CS101\_Assign04\\Player.cpp**
+> **H:\\CS101\\CS101\_Assign06\\Player.cpp**
 
 You will add your code to these files. *Note:* we will be using separate files for the game play, scene structure, and player structures. 
 
 The file **Chomp.cpp** contains the provided game loop, and the file **Const.h** includes symbolic constants to use throughout the program. You should not need to modify either of these files.
 
-A sample executable is included in the .zip file and can be run in Cygwin by
+A sample Windows executable is included in the .zip file and can be run in Cygwin by
 
-    ./ChompSol
+    ./ChompSolWin
+	
+or for Linux in a terminal window
+
+    ./ChompSolLinux
 	
 (there is also a sample executable compiled for Mac as ChompSolMac but it may be a bit erratic).
 
