@@ -151,7 +151,7 @@ At this point you should be able to move the player around the board "gobbling" 
 	
 ## Milestone 2
 
-**Milestone 2** incorporates the ghosts to complete the game play. The ghosts will simply be represented by an *array* of **Player**\ 's that uses a different function to determine their desired velocities (basic AI).
+**Milestone 2** incorporates the ghosts to complete the game play. The ghosts will simply be represented by an *array* of **Player**'s that uses a different function to determine their desired velocities (basic AI).
 
 You will need to first add a field to the **Scene** structure (in **Scene.h**)
 
