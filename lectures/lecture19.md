@@ -71,7 +71,7 @@ Because the **Player** data type builds on the **Location** data type, the funct
 {% highlight cpp %}
 void movePlayer(struct Map *map, struct Player *player, int dx, int dy)
 {
-    struct Point nextLoc;
+    struct Location nextLoc;
 
     // set nextLoc to the location the player is trying to move to
     nextLoc = player->loc;
