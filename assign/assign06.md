@@ -10,7 +10,7 @@ title: "Assignment 6: Chomp, Chomp, Chomp"
 Getting Started
 ===============
 
-Start by downloading [CS101_Assign06.zip](src/CS101_Assign06.zip), saving
+Start by downloading [CS101_Assign06.zip](CS101_Assign06.zip), saving
 it in the directory **H:\\CS101**.
 
 Start a **Cygwin Bash Shell** and run the following commands:
