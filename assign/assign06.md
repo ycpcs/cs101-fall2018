@@ -175,7 +175,7 @@ Note the **draw_Player()**, **check_Player_Move()**, and **update_Player()** fun
 	
 -   Add code to **render_Scene()** to call **draw_Player()** to draw the ghosts on the board (note this should be done *after* drawing the board but can be either before or after drawing the player). Also add drawing code to display the player's score next to the board.
 	
--   Add code to **update_Scene()** to call the functions for the ghosts (with the only difference being that **ghost_AI()** is used instead of **player_AI()**). Additionally after updating each ghost, you should check if the player has ended up on a ghost and return "true" to end the game. Update the player's score if they have moved onto a pellet or power_up by amounts **PELLET_VAL** and **POWER_VAL**.  The game should also end once there are no more pellets or power-ups remaining on the board.
+-   Add code to **update_Scene()** to call the functions for the ghosts (with the only difference being that **ghost_AI()** is used instead of **player_AI()**). Additionally after updating each ghost, you should check if the player has ended up on a ghost and return "true" to end the game. Update the player's score if they have moved onto a pellet or power_up by amounts **PELLET_VAL** and **POWER_VAL**.  The game should also end once there are no more pellets and power-ups remaining on the board.
 
 At this point you will have a playable game, but the ghosts will move extremely fast (although not very intelligently). To make the ghosts move at a more reasonable speed, determine a way to only update them every GHOST_DELAY (another constant in **Const.h**) update cycles. Hint: consider adding a counter field to the **Scene** structure and checking it in **update_Scene()**.
 
